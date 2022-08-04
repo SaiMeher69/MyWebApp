@@ -2,7 +2,6 @@ package com.company.mywebapp;
 
 import com.company.mywebapp.user.User;
 import com.company.mywebapp.user.UserRepository;
-import com.sun.xml.bind.v2.runtime.output.SAXOutput;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
